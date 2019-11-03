@@ -1,0 +1,47 @@
+
+#
+# Theme Setting
+# Doc: https://gitpitch.com/docs/settings/theme
+#
+theme : black
+highlight : monokai-sublime
+#
+# Theme-Override Setting
+# Doc: https://gitpitch.com/docs/settings/custom-theme
+#
+theme-override: gitpitch/assets/css/PITCHME.css
+
+#
+# Logo Setting
+# https://gitpitch.com/docs/settings/logo
+#
+# logo : .gitpitch/assets/img/logo.png
+# logo-postion : top-left
+
+#
+# Layout Setting
+# Doc: https://gitpitch.com/docs/settings/layout
+#
+layout : center
+
+#
+# Footnote Setting
+# Doc: https://gitpitch.com/docs/settings/footnote
+#
+footnote : "© 2019 Chappuis.io - Unlock the hidden complexity of python"
+
+#
+# Published Setting
+# Doc: https://gitpitch.com/docs/settings/published
+#
+published : true
+
+#
+# Twitter Card Settings [Pro Only]
+# Doc: https://gitpitch.com/docs/settings/twitter-card
+#
+title : "Pip, pipenv, peotry et PEP517/518"
+description : "L'écosystème de packaging et de gestion des dépendances de Python a un historique riche, mouvementé, qui évolue à son rythme et qui propose aujourd'hui deux nouveaux PEP, les PEP 518 et PEP 517, supportés respectivement par pip depuis ses versions 10.0 et 19.0. Quelles sont les implications de ces changements? Quels problèmes résolvent-ils ? Quelles opportunités offrent-ils pour le futur ? Cette présentation propose de faire un état de lieux sur le packaging fin 2019, sur ses pratiques et sur ses outils. Au délà des religions, préférences ou frustrations individuelles, je propose d'explorer les limitations actuelles de pypi, de pipenv ou de poetry et et de voir quelles évolutions on peut attendre pour le futur proche"
+
+# pro-menus-hidden : true
+slide-number: true

@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap');
+
+#notification {
+  display: none;
+}
+
+.text-orange, .text-primary {
+  color: #F37544;
+}
+
+.text-orange-dark {
+  color: #A6441E;
+}
+
+.text-orange-light {
+  color: #FF8E61;
+}
+
+.text-green {
+  color: #0DA68C;
+}
+
+.text-green-light {
+  color: #44F2D5;
+}
+
+
+html {
+  font-size: 100%;
+}
+
+body {
+  background-color: rgb(35, 36, 31);
+}
+
+.reveal > .gp-menu-bars.fa.fa-bars {
+  color: rgba(0,0,0,0);
+}
+
+.shadow {
+  box-shadow:0 14px 20px 0 rgba(0,0,0,0.2),0 10px 24px 0 rgba(0,0,0,0.19) !important;
+}
+
+.headline h2 {
+  letter-spacing: 0.05em;
+  font-variant: small-caps;
+}
+
+.reveal section img {
+  border: none;
+}
+
+.controls-arrow {
+  color: #000;
+}
+
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  text-transform: none;
+}
+
+.reveal h1 {
+  font-size: 3rem;
+  color: #F37544;
+}
+
+.reveal h2 {
+  font-size: 2.25rem;
+}
+
+.reveal h3 {
+  font-size: 2.25rem;
+}
+
+.reveal h4 {
+  font-size: 1.75rem;
+}
+
+.reveal h5 {
+  font-size: 1.25rem;
+}
+
+.reveal h6 {
+  font-size: 1rem;
+}
+
+.reveal a {
+  color: #F37544;
+}
+
+.reveal .slide-number {
+  color: #F37544;
+}
+
+.reveal a:hover {
+  color: #F37544;
+  font-weight: bold;
+}
+
+#gp-logo img {
+  max-height: 4.5rem;
+}
