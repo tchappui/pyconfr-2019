@@ -255,7 +255,7 @@ requires = [
 
 `python setup.py install` devient:
 
-- répertoire temporaire
+- création répertoire temporaire
 - création d'un environnement isolé
 - installation des bibliothèques de construction
 - `python_isolated setup.py bdist_wheel`
